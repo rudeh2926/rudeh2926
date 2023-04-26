@@ -7,7 +7,7 @@
   <img src="https://mazandi.herokuapp.com/api?handle=dok_0&theme=dracula">
 </p>
 <hr>
-<h3 align="center">📖 Study</h3>
+<h3 align="center">📖</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/C-36393F?style=flat&logo=C&logoColor=00599C" art="C" height=20>
   <img src="https://img.shields.io/badge/JAVA-36393F?style=flat&logoColor=EA2D2E" art="JAVA" height=20>
@@ -15,7 +15,7 @@
 </div>
 <br>
 <div align="center">
-<h3 align="center">🛠 Tools</h3>
+<h3 align="center">🛠</h3>
   <img src="https://img.shields.io/badge/Visual Studio-36393F?style=flat&logo=visualstudio&logoColor=5C2D91" art="Visual Studio" height=20>
   <img src="https://img.shields.io/badge/IntelliJ idea-36393F?style=flat&logo=intellijidea&logoColor=167EEF" art="intellijidea" height=20>
   <img src="https://img.shields.io/badge/GitHub-36393F?style=flat&logo=github&logoColor=181717" art="GitHub" height=20>
