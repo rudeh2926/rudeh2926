@@ -3,8 +3,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rudeh2926&show_icons=true&theme=dracula" height=200>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudeh2926&langs_count=5&theme=dracula" height=200><br>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dok_0">
-  <img src="https://mazandi.herokuapp.com/api?handle=dok_0&theme=dracula">
+  
 </p>
 <hr>
 <h3 align="center">📖</h3>
