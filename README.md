@@ -21,4 +21,5 @@
 <h3 align="center">📱</h3>
 <div align="center">
   <a href="https://www.instagram.com/dok_.0/" target="_blank"><img src="https://img.shields.io/badge/instagram-36393F?style=flat&logo=instagram&logoColor=E4405F" art="instargram" height=20></a>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudeh2926&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 </div>
