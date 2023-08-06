@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=header)
 
 <div align="center">  
-	<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=2f42cd&center=true&width=435&lines=Designer;Back-End+developer" alt="Typing Animation">
+	<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=2f42cd&center=true&width=435&lines=Product+Manager;Back-End+developer" alt="Typing Animation">
 </div>
 
 <div align="center"><h3>✨ Contact ✨</h3></div>
@@ -16,17 +16,17 @@
 <div align = center>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/>
 <div align="center">
 <br>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <br>
   <h3 align='center'>🛠️ Tools</h3>
 
 <p align='center'>
+	<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=white"/>
    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
