@@ -7,7 +7,7 @@
   
   <div align="center">
     <h3>👋🏻 Introduction👋🏻</h3>
-    <h4>아름답고 효율적인 코드를 짜기 위해 노력하는 백엔드개발자가 되도록 열심히 하겠습니다</h4><hr>
+    <h4>아름답고 효율적인 코드를 짜기 위해 노력하는 백엔드개발자가 되도록 열심히 하겠습니다</h4>
     <h3>✨ Contact ✨</h3><br>
     <a href="mailto:dokyungkim2926@gmail.com">
       <img alt="Gmail" src="https://img.shields.io/badge/dokyungkim2926@gmail.com-EA4335.svg?&style=flate&logo=Gmail&logoColor=white" />
