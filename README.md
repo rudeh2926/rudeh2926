@@ -32,12 +32,13 @@
 
   <div align="center">
     <br>
-    <h3>🛠️ Tools</h3>
+    <h3>🛠️ Tools</h3>    
     <p>
       <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white" />
       <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=white" />
       <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white" />
       <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" />
+      <img src="https://img.shields.io/badge/Slack-FFFFFF?style=flat-square&logo=Slack&logoColor=bc8ac2" />
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" />
       <img src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=white" />
     </p>
