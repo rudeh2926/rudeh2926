@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=header" alt="Header">
   
   <div align="center">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=2f42cd&center=true&width=435&lines=Product+Manager;Back-End+developer" alt="Typing Animation">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=2f42cd&center=true&width=435&lines=Back-End+developer;Product+Manager" alt="Typing Animation">
   </div>
   
   <div align="center">
