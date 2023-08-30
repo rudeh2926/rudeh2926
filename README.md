@@ -15,7 +15,7 @@
       <a href="https://dokyung-devloper.tistory.com/" target="_blank">
       <img src="https://img.shields.io/badge/Tistory-EA4335?style=flat-square&logo=Tistory&logoColor=white" />
       </a>
-      <a href="mailto:dokyungkim2926@gmail.com">
+      <a href="mailto:Gmail">
       <img alt="Gmail" src="https://img.shields.io/badge/dokyungkim2926@gmail.com-EA4335.svg?&style=flate&logo=Gmail&logoColor=white" />
     </a>
   </div>
