@@ -13,7 +13,7 @@
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" />
     </a>
       <a href="https://dokyung-devloper.tistory.com/" target="_blank">
-           <img src="https://img.shields.io/badge/Tistory-E4405F?style=flat-square&logo=Tistory&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tistory-EA4335?style=flat-square&logo=Tistory&logoColor=white" />
       </a>
       <a href="mailto:dokyungkim2926@gmail.com">
       <img alt="Gmail" src="https://img.shields.io/badge/dokyungkim2926@gmail.com-EA4335.svg?&style=flate&logo=Gmail&logoColor=white" />
