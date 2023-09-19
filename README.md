@@ -30,7 +30,9 @@
     <img src="https://img.shields.io/badge/AmazonS3-ff7f00?style=flat-square&logo=AmazonS3&logoColor=white" />
     <br>
     <h3>✒ language ✒</h3>
-    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudeh2926&layout=compact"><br>
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white&color1=E44857&color2=C711E1&color3=7F52FF"/>
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
   </div>
 
@@ -47,5 +49,6 @@
     </p>
   </div>
 
+  <div align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer" alt="Footer">
 </div>
