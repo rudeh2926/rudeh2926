@@ -31,6 +31,7 @@
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white&color1=E44857&color2=C711E1&color3=7F52FF"/>
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-4aa8d8?style=flat-square&logo=Python&logoColor=white"/>
   </div>
 
   <div align="center">
